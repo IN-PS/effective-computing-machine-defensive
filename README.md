@@ -1,4 +1,4 @@
-# Projeto Miranha de P.A.
+# Projeto Miranha de P.A. (Partes Artificiais)
 
 Pesquisa em materiais biomiméticos: avaliar e desenvolver um filamento sintético cientificamente plausível, inspirado na estrutura molecular e nas propriedades mecânicas da seda de aranha.
 
